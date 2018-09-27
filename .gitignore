@@ -105,6 +105,6 @@ venv.bak/
 
 
 # pictures
-.png
-.jpeg
-.jpg
+*.png
+*.jpeg
+*.jpg
